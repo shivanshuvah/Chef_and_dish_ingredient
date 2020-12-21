@@ -46,9 +46,7 @@ Input:-
 
 Line 1: The total number of days for the scope of the problem(1<=input<=20)
 
-Line 2: The exact number of ingredients that chef uses to cook(1<=input<=20)
-
-Line 3: The space separated ingredient ids.(6<=length(ingredientid)<=20)
+Line 2: The space separated ingredient ids.(6<=length(ingredientid)<=20)
 
 Output:- Print the dish(X or Y) if the chef cooks on that day
 and print "-" if the chef doesn't cook anything on that day.Print the output as  single string.
