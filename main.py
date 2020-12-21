@@ -110,12 +110,4 @@ for ingredient in input().split():
         print('-', end='')
 
 
-#9
-#FATOil FIBERSpinach CARBRice FATCheese FIBERBeans FATOlive CARBPotato FIBERBroccoli FIBERBanana
-#----X---Y
-
-#13
-#CARBBeetroot FIBERCarrot FATOlive CARBCorn CARBPotato FIBERBroccoli FATEgg FIBERBeans FATCheese CARBRice FIBERSpinach FATOil FIBERBanana
-#----Y--X-----
-
 
